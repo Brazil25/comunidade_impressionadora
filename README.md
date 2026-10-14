@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Criação de site de comunidade usando Flask.
-=======
 # Comunidade Impressionadora - Flask
 
 Site de Comunidade criado utilizando o framework Flask.
@@ -101,4 +98,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## Licença
 
 Este projeto está sob a licença MIT.
->>>>>>> e1652ad (Atualização de arquivo README.md)
