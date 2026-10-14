@@ -19,8 +19,8 @@ Site de Comunidade criado utilizando o framework Flask.
 | <img src="demo/Demonstracao5.png" width="400"> | <img src="demo/Demonstracao6.png" width="400"> |
 
 | Página Inicial após Criação de Post |
-| :---: | :---: |
-| <img src="demo/Demonstracao7.png" width="400"> | |
+| :---: |
+| <img src="demo/Demonstracao7.png" width="400"> |
 
 ---
 
